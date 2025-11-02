@@ -29,7 +29,7 @@
 
 ### 🔗 Quick Access for Judges
 [![Video Demo](https://img.shields.io/badge/🎬_WATCH_VIDEO_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/MgtE9a-LNyQ)
-[![Live Demo](https://img.shields.io/badge/🚀_CHECK_DEMO-00C853?style=for-the-badge)](/demonstration_images)
+[![Live Demo](https://img.shields.io/badge/🚀_CHECK_DEMO-00C853?style=for-the-badge)](/demonstration_images.md)
 
 
 </div>
