@@ -30,3 +30,27 @@
 ├─────────────────┴─────────────────┴─────────────────┴───────────┤
 │                DEAL CONDUCTOR (Orchestrator)                    │
 └─────────────────────────────────────────────────────────────────┘
+
+🔧 Core Components Breakdown
+1. 🧩 Input Processing Layer
+
+Startup Data Ingestion Pipeline
+
+├── Financial Data Module
+│   ├→ Income Statements (3 years)
+│   ├→ Balance Sheets
+│   ├→ Cash Flow Statements
+│   └→ Financial Projections
+├── Business Intelligence Module
+│   ├→ Pitch Deck Analysis
+│   ├→ Business Model Canvas
+│   ├→ Go-to-Market Strategy
+│   └→ Competitive Landscape
+├── Market Data Module
+│   ├→ Industry Reports
+│   ├→ Market Sizing Data
+│   └→ Real-time Economic Indicators
+└── Technical Assets Module
+    ├→ Code Repository Access
+    ├→ Architecture Documentation
+    └→ IP Portfolio Analysis
