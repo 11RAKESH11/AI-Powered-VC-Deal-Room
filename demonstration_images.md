@@ -5,7 +5,7 @@ This section showcases 8 screenshots that represent the IBM watsonx Orchestrate 
 
 ---
 
-## 🖼️ Image Gallery (8 Screenshots)
+
 
 ### 1️⃣ Welcome Dashboard
 ![Welcome Dashboard](./path/to/Screenshot-01.png)
