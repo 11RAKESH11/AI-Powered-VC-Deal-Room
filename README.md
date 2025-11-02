@@ -29,7 +29,7 @@
 
 ### 🔗 Quick Access for Judges
 [![Video Demo](https://img.shields.io/badge/🎬_WATCH_VIDEO_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/MgtE9a-LNyQ)
-[![Live Demo](https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-00C853?style=for-the-badge)](YOUR_DEMO_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-00C853?style=for-the-badge)](/demonstration.md)
 [![Theme Proof](https://img.shields.io/badge/🏭_Theme_Alignment-6A0DAD?style=for-the-badge)](#-perfect-theme-alignment-industry-innovation--infrastructure)
 
 </div>
@@ -66,7 +66,7 @@
 
 | Team Member | Role | Focus Area |
 |-------------|------|-----------|
-| **Rakesh Behera** | Team Lead & Architect | AI Systems, Venture Capital |
+| **Rakesh Behera** | Team Lead & Architect ,Technical Lead| AI Systems, Venture Capital |
 | **Nidhi M** | Technical Lead | IBM Watsonx, Multi-Agent AI |
 
 ---
