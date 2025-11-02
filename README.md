@@ -59,21 +59,13 @@
 - **Theme embodiment**: Perfect Industry + Innovation + Infrastructure combination
 
 ---
+<center>## 👨‍💻 Team Concept Crew</center>
 
-## 👨‍💻 Team Concept Crew
 
 
 ---
 
-## 📚 Documentation
 
-<div align="center">
-
-[![Architecture](https://img.shields.io/badge/🏗️_Architecture-Details-007ACC?style=for-the-badge)](/ARCHITECTURE.md)
-[![Theme Deep Dive](https://img.shields.io/badge/🏭_Theme_Alignment-28A745?style=for-the-badge)](/THEME-ALIGNMENT.md)
-[![Demo Guide](https://img.shields.io/badge/🎬_Demo_Guide-Details-FF6B35?style=for-the-badge)](/DEMO-GUIDE.md)
-
-</div>
 
 ---
 
