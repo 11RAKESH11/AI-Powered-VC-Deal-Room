@@ -31,8 +31,8 @@
 │                DEAL CONDUCTOR (Orchestrator)                    │
 └─────────────────────────────────────────────────────────────────┘
 
-🔧 Core Components Breakdown
-1. 🧩 Input Processing Layer
+#🔧 Core Components Breakdown
+##1. 🧩 Input Processing Layer
 
 Startup Data Ingestion Pipeline
 
@@ -55,7 +55,7 @@ Startup Data Ingestion Pipeline
     ├→ Architecture Documentation
     └→ IP Portfolio Analysis
 
-2. ⚙️ IBM Watsonx Orchestrate Layer
+##2. ⚙️ IBM Watsonx Orchestrate Layer
 
 Orchestration Engine
 
@@ -80,7 +80,7 @@ Orchestration Engine
     ├→ Output Standardization
     └→ Exception Handling
 
-3. 🤖 Multi-Agent Analysis Layer
+##3. 🤖 Multi-Agent Analysis Layer
 
 Each agent specializes in a domain to perform deep-dive analyses:
 | Agent                         | Role          | Key Function                                     |
@@ -95,7 +95,7 @@ Each agent specializes in a domain to perform deep-dive analyses:
 | **8. Portfolio Optimizer**    | Portfolio     | Term sheet and allocation strategy               |
 | **9. Deal Conductor**         | Orchestration | Manages, sequences, and validates all analyses   |
 
-🔄 Data Flow Architecture
+##🔄 Data Flow Architecture
 
 End-to-End Workflow
 DATA INGESTION
@@ -123,7 +123,7 @@ OUTPUT GENERATION
 ↓
 Professional Reports → Executive Summary → Risk Dashboard
 
-🔒 Security & Compliance
+##🔒 Security & Compliance
 
 Security Architecture
 
@@ -143,9 +143,9 @@ Security Architecture
     ├→ Vulnerability Scanning
     └→ Incident Response Protocol
 
-📈 Performance Metrics
+#📈 Performance Metrics
 
-System Performance
+##System Performance
 
 | Metric             | Value                    |
 | ------------------ | ------------------------ |
@@ -154,7 +154,7 @@ System Performance
 | ⚙️ Scalability     | 100+ concurrent analyses |
 | 📊 Accuracy        | 98.7% completion rate    |
 
-Agent Performance
+##Agent Performance
 
 | Agent              | Avg. Time |
 | ------------------ | --------- |
@@ -164,7 +164,7 @@ Agent Performance
 | Market Analysis    | 41s       |
 
 
-🚀 Deployment Architecture
+##🚀 Deployment Architecture
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
 │  LOAD BALANCER  │ →  │   API GATEWAY    │ →  │  IBM WATSONX     │
 │                 │     │                 │     │  ORCHESTRATE     │
@@ -175,7 +175,7 @@ Agent Performance
 │     (React)     │     │   (9 Agents)    │     │    (MongoDB)    │
 └─────────────────┘     └─────────────────┘     └─────────────────┘
 
-🔮 Future Architecture Roadmap
+##🔮 Future Architecture Roadmap
 | Phase                   | Timeline | Key Features                                                      |
 | ----------------------- | -------- | ----------------------------------------------------------------- |
 | **Phase 1 (Current)**   | Now      | Multi-agent coordination, basic due diligence, report generation  |
