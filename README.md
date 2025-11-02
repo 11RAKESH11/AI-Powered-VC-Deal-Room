@@ -9,9 +9,9 @@ The AI-Powered VC Deal Room transforms venture capital due diligence into a data
 <div align="center">
 
 [![IBM Watsonx](https://img.shields.io/badge/IBM-Watsonx_Orchestrate-FF6B35?style=for-the-badge&logo=ibm)](https://www.ibm.com/watsonx)
-[![Call for Code](https://img.shields.io/badge/Call_for_Code_2024-Industry_Innovation-blue?style=for-the-badge)](https://callforcode.org)
+[![Checkit](https://img.shields.io/badge/Call_for_Code_2024-Industry_Innovation-blue?style=for-the-badge)](https://callforcode.org)
 [![Video Demo](https://img.shields.io/badge/🎥_WATCH_VIDEO_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/MgtE9a-LNyQ)
-[![Live Demo](https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-00C853?style=for-the-badge)](YOUR_DEMO_LINK_HERE)
+
 
 </div>
 
