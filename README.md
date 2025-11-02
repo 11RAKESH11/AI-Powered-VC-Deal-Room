@@ -85,8 +85,8 @@ We're not just building another AI tool - we're fundamentally reinventing how ve
 *Built with ❤️ using IBM Watsonx Orchestrate for Call for Code 2024*  
 **Team Concept Crew - Transforming Industry through Innovation** 🚀
 
-[![Industry](https://img.shields.io/badge/🏭_Industry-FF6B35?style=flat-square)]()
-[![Innovation](https://img.shields.io/badge/💡_Innovation-00C853?style=flat-square)]()
-[![Infrastructure](https://img.shields.io/badge/🔧_Infrastructure-007ACC?style=flat-square)]()
+[![Industry](https://img.shields.io/badge/🏭_Industry-FF6B35?style=flat-square)](/Industry.md)
+[![Innovation](https://img.shields.io/badge/💡_Innovation-00C853?style=flat-square)](/Innovation.md)
+[![Infrastructure](https://img.shields.io/badge/🔧_Infrastructure-007ACC?style=flat-square)](/Infrastructure.md)
 
 </div>
