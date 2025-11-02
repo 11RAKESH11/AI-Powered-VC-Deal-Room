@@ -55,7 +55,7 @@ This integration powers:
      │   Watsonx.ai       │   │   Watsonx.data      │   │   Watsonx.governance│
      │ (AI Models + NLP)  │   │ (Data Lakehouse)    │   │ (Compliance Layer) │
      └────────────────────┘   └────────────────────┘   └────────────────────┘
-Key Watsonx Capabilities Used
+##Key Watsonx Capabilities Used
 🔹 1. Watsonx.ai — Intelligent Analysis
 
 | Function                      | Description                                                      |
