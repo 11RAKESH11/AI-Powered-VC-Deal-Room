@@ -59,7 +59,8 @@
 - **Theme embodiment**: Perfect Industry + Innovation + Infrastructure combination
 
 ---
-<center>## 👨‍💻 Team Concept Crew</center>
+<marquee>
+👨‍💻 Team Concept Crew</marquee>
 
 
 
