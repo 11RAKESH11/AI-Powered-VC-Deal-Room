@@ -57,6 +57,6 @@ This section showcases 8 screenshots that represent the IBM watsonx Orchestrate 
 
 ## 📊 Summary
 Each image illustrates how **IBM watsonx Orchestrate** integrates multiple AI agents to automate due diligence, financial modeling, and deal evaluation.  
-Replace the `./path/to/...` with your actual file names — for example:
+
 
 
