@@ -43,13 +43,13 @@ This section showcases 8 screenshots that represent the IBM watsonx Orchestrate 
 
 ---
 
-### 7️⃣ FinTech Deal Analysis – Part 1
+### 7️⃣  E Commerce Analysis – Part 1
 ![FinTech Deal Analysis – 1](./path/to/Screenshot-07.png)
 *Description: Analysis of FinTech startup performance indicators.*
 
 ---
 
-### 8️⃣ FinTech Deal Valuation
+### 8️⃣ E Commerce Deal Valuation
 ![FinTech Deal Valuation](./path/to/Screenshot-08.png)
 *Description: Final valuation report and recommendation summary.*
 
