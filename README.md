@@ -62,12 +62,6 @@
 
 ## 👨‍💻 Team Concept Crew
 
-**Call for Code 2024 - Industry Innovation Challenge**
-
-| Team Member | Role | Focus Area |
-|-------------|------|-----------|
-| **Rakesh Behera** | Team Lead & Architect ,Technical Lead| AI Systems, Venture Capital |
-| **Nidhi M** | Technical Lead | IBM Watsonx, Multi-Agent AI |
 
 ---
 
