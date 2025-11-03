@@ -59,8 +59,9 @@
 - **Theme embodiment**: Perfect Industry + Innovation + Infrastructure combination
 
 ---
-<marquee>
-👨‍💻 Team Concept Crew</marquee>
+<h2 align="center">👨‍💻 <b>Team Concept Crew</b> 👨‍💻</h2>
+<p align="center">Innovating with Passion & Purpose</p>
+
 
 
 
@@ -82,7 +83,7 @@ We're not just building another AI tool - we're fundamentally reinventing how ve
 
 ### **Judges: See Perfect Theme Alignment in Action → [Watch Video Demo](https://youtu.be/MgtE9a-LNyQ)**
 
-*Built with ❤️ using IBM Watsonx Orchestrate for Call for Code 2024*  
+*Built with ❤️ using IBM Watsonx Orchestrate for Call for Code 2025*  
 **Team Concept Crew - Transforming Industry through Innovation** 🚀
 
 [![Industry](https://img.shields.io/badge/🏭_Industry-FF6B35?style=flat-square)](/Industry.md)
